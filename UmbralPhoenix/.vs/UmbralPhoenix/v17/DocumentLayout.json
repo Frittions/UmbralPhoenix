@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\nmcal\\OneDrive\\Documents\\Programming Projects\\UmbralPhoenix\\UmbralPhoenix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F65A07AE-45D1-4F76-A809-BCEEC5EE4965}|NewFolder1{F65A07AE-45D1-4F76-A809-BCEEC5EE4965}|C:\\Users\\nmcal\\OneDrive\\Documents\\Programming Projects\\UmbralPhoenix\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{F65A07AE-45D1-4F76-A809-BCEEC5EE4965}|Solution Items{F65A07AE-45D1-4F76-A809-BCEEC5EE4965}|C:\\Users\\nmcal\\OneDrive\\Documents\\Programming Projects\\UmbralPhoenix\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79F28A18-20B0-4ADB-98AA-6E71D837A653}|UmbralPhoenix.Game\\UmbralPhoenix.Game.csproj|c:\\users\\nmcal\\onedrive\\documents\\programming projects\\umbralphoenix\\umbralphoenix\\umbralphoenix.game\\desktopgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,7 +43,7 @@
               "RelativeDocumentMoniker": "..\\.gitignore",
               "ToolTip": "C:\\Users\\nmcal\\OneDrive\\Documents\\Programming Projects\\UmbralPhoenix\\.gitignore",
               "RelativeToolTip": "..\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-07T04:22:30.536Z",
               "EditorCaption": ""
@@ -106,8 +106,7 @@
               "RelativeToolTip": "UmbralPhoenix.Game\\DesktopGame.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:38:19.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T22:38:19.825Z"
             }
           ]
         }
