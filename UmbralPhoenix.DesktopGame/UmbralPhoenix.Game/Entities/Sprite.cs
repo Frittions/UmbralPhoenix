@@ -10,11 +10,19 @@ namespace UmbralPhoenix.Domain.Entities
         private int sizeX;
         private int sizeY;
 
-        public Texture2D Texture
+		public Sprite(Texture2D texture, Vector2 position, int scaleFactor) 
 		{
-			get { return texture; }
-			set { texture = value; }
+			Texture = texture;
+			Position = position;
+			SizeX = scaleFactor * texture.Width;
+			SizeY = scaleFactor * texture.Height;
 		}
+
+        public Texture2D Texture
+        {
+            get { return texture; }
+            set { texture = value; }
+        }
 
         public Vector2 Position
         {
@@ -34,12 +42,5 @@ namespace UmbralPhoenix.Domain.Entities
             set { sizeY = value; }
         }
 
-		public Sprite(Texture2D texture, Vector2 position, int scaleFactor) 
-		{
-			Texture = texture;
-			Position = position;
-			SizeX = scaleFactor * texture.Width;
-			SizeY = scaleFactor * texture.Height;
-		}
 	}
 }

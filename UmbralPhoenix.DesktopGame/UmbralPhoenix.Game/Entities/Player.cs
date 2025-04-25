@@ -10,5 +10,16 @@ namespace UmbralPhoenix.Game.Entities
         {
 
         }
+
+        public void Update() 
+        {
+
+        }
+
+        public void Draw()
+        {
+
+        }
+
     }
 }
